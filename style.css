@@ -478,7 +478,6 @@ button:hover i {
     background: var(--dark-color);
     opacity: 1;
 }
-/* ----------------- TOUR ----------------- */
 .tour {
     width: 100%;
     background: var(--bg-color);
