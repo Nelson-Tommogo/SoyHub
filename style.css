@@ -14,9 +14,9 @@
     --text-large-font: 20px;
     --text-font: 16px;
     /* COLOURS */
-    --text-color: #000;
-    --hover-color: #bb3333;
-    --dark-color: #095000;
+    --text-color: rgb(107,114,128);
+    --hover-color: orangered;
+    --dark-color: orange;
     --bg-color: #b3ffa2;
     --bg-color-header: #56a944d3;
     --header-change-color: #b8eba6d7;
