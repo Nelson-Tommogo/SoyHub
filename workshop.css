@@ -7,7 +7,7 @@ body {
   *{
       background-color:FFFFFF ;
       font-size: 20px;
-      color:#66BB6A ;
+      color:rgb(107,114,128) ;
   }
   .logo-container {
       position: relative;
