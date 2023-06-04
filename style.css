@@ -15,11 +15,11 @@
     --text-font: 16px;
     /* COLOURS */
     --text-color: rgb(107,114,128);
-    --hover-color: orangered;
+    --hover-color: #bb3333;
     --dark-color: orange;
-    --bg-color: #b3ffa2;
-    --bg-color-header: #56a944d3;
-    --header-change-color: #b8eba6d7;
+    --bg-color: orangered;
+    --bg-color-header: orangered;
+    --header-change-color: rgb(107,114,128);
 
 }
 .change-header {
@@ -81,7 +81,7 @@
 }
 #scrollTop i:hover {
     color: #fff;
-    background: #289a26;
+    background: orangered;
 }
 
 /* ----------------- SCROLLBAR ----------------- */
