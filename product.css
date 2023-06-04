@@ -49,7 +49,7 @@
     font-weight: 500;
     font-size: 4rem;
     color: white;
-    text-shadow: 2px 1px #333333;
+    text-shadow: 2px 1px rgb(141, 111, 54);
    
 }
 .home-supporting-text {
@@ -60,7 +60,7 @@
     text-shadow: 2px 1px #333333;
 }
 .homepage-btn-1 {
-    background: #00cc00;
+    background: orange;
     color: white;
     margin-left: 4px;
     font-size: x-large;
@@ -80,7 +80,7 @@
     text-align: center;
   }
   .carousel-row h2 b {
-      color: #7ac400;
+      color: orangered;
   }
   .carousel-row h2::after {
       content: "";
@@ -88,7 +88,7 @@
       position: absolute;
       margin: 0 auto;
       height: 4px;
-      background: rgba(0, 0, 0, 0.2);
+      background: rgb(141, 111, 54);
       left: 0;
       right: 0;
       bottom: -20px;
@@ -134,12 +134,12 @@
       margin-bottom: 5px;
   }
   .store-carousel .thumb-content .btn {
-      color: #7ac400;
+      color: orangered;
       font-size: 11px;
       text-transform: uppercase;
       font-weight: bold;
       background: none;
-      border: 1px solid #7ac400;
+      border: 1px solid orange;
       padding: 6px 14px;
       margin-top: 5px;
       line-height: 16px;
@@ -147,7 +147,7 @@
   }
   .store-carousel .thumb-content .btn:hover, .store-carousel .thumb-content .btn:focus {
       color: #fff;
-      background: #7ac400;
+      background: orangered;
       box-shadow: none;
   }
   .store-carousel .thumb-content .btn i {
@@ -158,13 +158,13 @@
   .store-carousel .carousel-control {
       height: 44px;
       width: 40px;
-      background: #7ac400;	
+      background: orange;	
       margin: auto 0;
       border-radius: 4px;
       opacity: 0.8;
   }
   .store-carousel .carousel-control:hover {
-      background: #78bf00;
+      background: orangered;
       opacity: 1;
   }
   .store-carousel .carousel-control i {
@@ -254,7 +254,7 @@ position: absolute;
 margin: 0 auto;
 height: 4px;
 border-radius: 1px;
-background: #7ac400;
+background: orangered;
 left: 0;
 right: 0;
 bottom: -20px;
@@ -300,12 +300,12 @@ font-size: 18px;
 margin-bottom: 5px;
 }
 .store-carousel .thumb-content .btn {
-color: #00cc00;
+color: orangered;
 font-size: 11px;
 text-transform: uppercase;
 font-weight: bold;
 background: none;
-border: 1px solid #00cc00;
+border: 1px solid orangered;
 padding: 6px 14px;
 margin-top: 5px;
 line-height: 16px;
@@ -313,7 +313,7 @@ border-radius: 20px;
 }
 .store-carousel .thumb-content .btn:hover, .store-carousel .thumb-content .btn:focus {
 color: #fff;
-background: #00cc00;
+background: orangered;
 box-shadow: none;
 }
 .store-carousel .thumb-content .btn i {
@@ -324,13 +324,13 @@ margin-left: 5px;
 .store-carousel .carousel-control {
 height: 44px;
 width: 40px;
-background: #00cc00;	
+background: orangered;	
 margin: auto 0;
 border-radius: 4px;
 opacity: 0.8;
 }
 .store-carousel .carousel-control:hover {
-background: #008000;
+background: orangered;
 opacity: 1;
 }
 .store-carousel .carousel-control i {
@@ -416,7 +416,7 @@ cursor: pointer;
     margin: 0 auto;
     height: 4px;
     border-radius: 1px;
-    background: #7ac400;
+    background: orangered;
     left: 0;
     right: 0;
     bottom: -20px;
@@ -457,12 +457,12 @@ cursor: pointer;
     }
     
     .store-items .store-row-2 .thumb-content .btn, .store-row-3 .thumb-content .btn {
-    color: #00cc00;
+    color: orangered;
     font-size: 11px;
     text-transform: uppercase;
     font-weight: bold;
     background: none;
-    border: 1px solid #00cc00;
+    border: 1px solid orangered;
     padding: 6px 14px;
     margin-top: 5px;
     line-height: 16px;
@@ -470,7 +470,7 @@ cursor: pointer;
     }
     .store-items .store-row-2 .thumb-content .btn:hover, .store-row-3 .thumb-content .btn:focus {
     color: #fff;
-    background: #00cc00;
+    background: orangered;
     box-shadow: none;
     }
     
