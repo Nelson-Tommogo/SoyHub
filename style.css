@@ -16,8 +16,8 @@
     /* COLOURS */
     --text-color: rgb(107,114,128);
     --hover-color: #bb3333;
-    --dark-color: orange;
-    --bg-color: orangered;
+    --dark-color: green;
+    --bg-color: orange;
     --bg-color-header: orangered;
     --header-change-color: rgb(107,114,128);
 
@@ -81,7 +81,7 @@
 }
 #scrollTop i:hover {
     color: #fff;
-    background: orangered;
+    background: lavender;
 }
 
 /* ----------------- SCROLLBAR ----------------- */
